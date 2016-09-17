@@ -1,4 +1,6 @@
-# Bite.js Webpack Loader
+# bite-templates-loader
+
+A Webpack loader for [Bite.js](https://sinova.github.io/Bite.js/)
 
 ## Installation
 
