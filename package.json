@@ -1,0 +1,24 @@
+{
+  "name": "bite-templates-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for Bite.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinova/bite-templates-loader.git"
+  },
+  "keywords": [
+    "bite",
+    "template",
+    "html"
+  ],
+  "author": "Samuel Hodge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sinova/bite-templates-loader/issues"
+  },
+  "homepage": "https://github.com/Sinova/bite-templates-loader#readme",
+  "peerDependencies": {
+    "bite-templates": "*"
+  }
+}
